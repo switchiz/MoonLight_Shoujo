@@ -1,0 +1,34 @@
+{
+    "name": "Tutorial",
+    "maps": [
+        {
+            "name": "TutoInput",
+            "id": "ecbf1143-fad6-4bd2-a08b-45cb2bf25eec",
+            "actions": [
+                {
+                    "name": "Phone",
+                    "type": "Button",
+                    "id": "1b1b11e2-09ea-4e6e-9105-b3e08f89ff31",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "aac31935-87dd-42ac-a567-60e70e9fa9e1",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Phone",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerBullet
+  - Bullet
+  - Block
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Deco
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - Block
+  - Background
+  - HiddenBlock
+  - Enemy
+  - EnemyDead
+  - MoveBlock
+  - EnemyBullet
+  - Player_invi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 305745499
+    locked: 0
+  - name: Block
+    uniqueID: 4258470207
+    locked: 0
+  - name: Enemy
+    uniqueID: 4165196913
+    locked: 0
+  - name: Player
+    uniqueID: 3497205831
+    locked: 0
+  - name: Bullet
+    uniqueID: 3601807057
+    locked: 0
+  - name: Deco
+    uniqueID: 2659811301
+    locked: 0
